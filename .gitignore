@@ -1,0 +1,4 @@
+.idea
+/backend/node_modules
+/blogg/node_modules
+api/uploads/*
